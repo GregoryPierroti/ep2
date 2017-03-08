@@ -1,4 +1,4 @@
-public class Principal{
+public class Principal{  //não consegui fazer o o cirulo e os perimetros do triangulo e trapezio
         Quadrado q = new Quadrado();
         Triangulo t = new Triangulo();
         Retangulo r = new Retangulo();
