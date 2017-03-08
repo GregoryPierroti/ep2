@@ -1,4 +1,4 @@
-public class Retangulo extendFigurasGeometricas {
+public class Retangulo extends FigurasGeometricas {
   private double base;
   private double altura;
   public void setBase(){
