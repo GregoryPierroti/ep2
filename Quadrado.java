@@ -3,6 +3,9 @@ public class Quadrado extends FigurasGeometricas{
   public void setTamlado(){
     this.tamlado=tamlado;
   }
+  public double getTamlado{
+    return this.tamlado;
+  }
   public double calculararea{
    this.area=this.tamlado*this.tamlado;
    return this.area;
