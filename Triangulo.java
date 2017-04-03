@@ -1,10 +1,8 @@
 public class Triangulo extends FigurasGeometricas{
     private double base;
     private double altura;
-    public void setBase(){
+    public Retangulo(double retaBase, double altura){
         this.base=base;
-    }
-    public void setAltura(){
         this.altura=altura;
     }
     public double calculararea(){
