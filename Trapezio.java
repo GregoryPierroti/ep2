@@ -2,13 +2,9 @@ public class Trapezio{
     private double altura;
     private double basemai;
     private double basemen;
-    public void setAltura(){
+    public Retangulo(double altura, double basemai, double basemen){
         this.altura=altura;
-    }
-    public void setBasemai(){
         this.basemai=basemai;
-    }
-    public void setBasemen(){
         this.basemen=basemen;
     }
     if(baseMaior > baseMenor){    
